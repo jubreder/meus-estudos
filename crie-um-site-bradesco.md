@@ -39,15 +39,15 @@
   - [x] mensagem de console
   - [x] abrir no navegador
   - [ ] verificar a página de ferramentas para desenvolvedores
-- [ ] QUIZ
+- [ ] **QUIZ**
   - [ ] quiz
   - [ ] quiz - exercício 1
   - [ ] quiz - exercício 2
   - [ ] quiz - exercício 3
   - [ ] quiz - exercício 4
   - [ ] quiz - exercício 5
-- [ ] Recapitulando
-- [ ] Encerramento
+- [ ] **Recapitulando**
+- [ ] **Encerramento**
 
 ## principais anotações e aprendizados
 
