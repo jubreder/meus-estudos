@@ -13,8 +13,6 @@ abaixo está o histórico de registros organizados cronologicamente:
 | :--- | :---: | :--- | :--- |
 | novembro/2026 | em andamento | JavaScript, CSS, HTML, estruturas web | [acessar novembro](./novembro-2026.md) |
 
----
-
 ## estrutura padrão dos registros
 
 para manter a consistência, cada entrada nos arquivos mensais segue o formato:
