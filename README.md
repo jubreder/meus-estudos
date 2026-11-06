@@ -1,14 +1,14 @@
 # meus estudos
 
-repositório criado para registrar minha evolução, projetos e exercícios
+repositório criado para registrar minha jornada de aprendizado, projetos e exercícios
 
-## tecnologias que estou aprendendo:
-- HTML5
-- CSS3
-- JavaScript
+## objetivo principal
 
-## diário de bordo
-- **05/11/26**: comecei o curso **Crie um site simples usando HTML, CSS e JavaScript** da Fundação Bradesco
-- conclui 70% e aprendi a editar cabeçalho e corpo do HTML, o que é um CSS externo, regras, seletores e como adicionar temas claro e escuro
-- **próximo passo**: aprender a adicionar interatividade com JavaScript
-- interatividade finalizada!
+evoluir minhas habilidades em desenvolvimento software, construindo uma base sólida tanto no Front-end quanto no Back-end.
+
+## mapa do repositorio
+
+```text
+meus-estudos/
+├── diario-de-bordo/      # registros de evolução
+└── cursos/               # anotações organizadas por curso/videoaula
