@@ -5,4 +5,4 @@
 - aprendi a editar cabeçalho e corpo do HTML, o que é um CSS externo, regras, seletores e como adicionar temas claro e escuro
 - também aprendi a adicionar interatividade com JavaScript
 - 78% do curso conluído
-- [link do curso](./Crie-um-site-simples.md)
+- [link do curso](./crie-um-site-simples.md)
