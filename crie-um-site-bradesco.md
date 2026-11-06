@@ -2,7 +2,7 @@
 
 - **plataforma:** Fundação Bradesco (Escola Virtual)
 - **carga horária:** 2h
-- **status:** em andamento
+- **status:** 🟡 em andamento
 - **objetivo:** adquirir informações fundamentais para trabalhar com o desenvolvimento para a Web, aprendendo a usar HTML, CSS e JavaScript para criar sites ou aplicativos da Web.
 
 ## progresso do curso
