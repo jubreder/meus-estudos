@@ -29,7 +29,7 @@
   - [x] adicionar um tema claro
   - [x] exibir no navegador e exibir CSS aplicado
   - [x] adicionar um tema escuro
-- [ ] **Módulo 4 – Adicionar interatividade com o JavaScript**
+- [x] **Módulo 4 – Adicionar interatividade com o JavaScript**
   - [x] o que é JavaScript?
   - [x] vincular ao JavaScript
   - [x] adicionar tolerância de falhas
@@ -38,16 +38,16 @@
   - [x] adicionar um manipulador de eventos
   - [x] mensagem de console
   - [x] abrir no navegador
-  - [ ] verificar a página de ferramentas para desenvolvedores
-- [ ] **QUIZ**
-  - [ ] quiz
-  - [ ] quiz - exercício 1
-  - [ ] quiz - exercício 2
-  - [ ] quiz - exercício 3
-  - [ ] quiz - exercício 4
-  - [ ] quiz - exercício 5
-- [ ] **Recapitulando**
-- [ ] **Encerramento**
+  - [x] verificar a página de ferramentas para desenvolvedores
+- [x] **QUIZ**
+  - [x] quiz
+  - [x] quiz - exercício 1
+  - [x] quiz - exercício 2
+  - [x] quiz - exercício 3
+  - [x] quiz - exercício 4
+  - [x] quiz - exercício 5
+- [x] **Recapitulando**
+- [x] **Encerramento**
 
 ## principais anotações e aprendizados
 
