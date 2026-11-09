@@ -49,6 +49,8 @@
 - [x] **Recapitulando**
 - [x] **Encerramento**
 
-## principais anotações e aprendizados
-
 ## projetos e exercícios relacionados
+
+- arquivo html: [index](./index.html)
+- arquivo css: [main](./main.css)
+- arquivo javascript: [app](./app.js)
