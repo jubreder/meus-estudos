@@ -12,7 +12,7 @@
 - [x] Módulo 1: Introdução à nuvem
   - [x] INTRODUÇÃO
     - [x] Boas-vindas ao curso AWS Cloud Practitioner Essentials
-  - [ ] A NUVEM AWS
+  - [X] A NUVEM AWS
     - [x] O que é computação em nuvem?
     - [x] Benefícios da nuvem AWS
     - [x] Introdução à infraestrutura global da AWS
