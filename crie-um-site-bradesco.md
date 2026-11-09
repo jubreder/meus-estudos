@@ -49,7 +49,7 @@
 - [x] **Recapitulando**
 - [x] **Encerramento**
 
-## projetos e exercícios relacionados
+## projetos e arquivos relacionados
 
 - arquivo html: [index](../../blob/arquivos/index.html)
 - arquivo css: [main](../../blob/arquivos/main.css)
