@@ -52,5 +52,5 @@
 ## projetos e exercícios relacionados
 
 - arquivo html: [index](../../blob/arquivos/index.html)
-- arquivo css: [main](./blob/arquivos/main.css)
-- arquivo javascript: [app](./blob/arquivos/app.js)
+- arquivo css: [main](../../blob/arquivos/main.css)
+- arquivo javascript: [app](../../blob/arquivos/app.js)
