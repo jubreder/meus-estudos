@@ -10,3 +10,9 @@
 ### 08/11/2026 - finalização do curso criando um site simples
 - finalizei o curso respondendo o quiz e a avaliação para receber a certificação.
 - registro do certificado no virtual aluno da minha universidade para contabilização de horas complementares.
+
+### 09/11/2026 - iniciando o curso de aws
+- comecei o curso AWS Cloud Practitioner Essentials que meu grupo de estudos da faculdade esta fazendo.
+- aprendi sobre o que é computação em nuvem e informaçoes sobre AWS.
+- terminei o módulo 1 de 13
+- [link do curso](./
