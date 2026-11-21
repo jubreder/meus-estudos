@@ -1,22 +1,66 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Simple Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agência de Viagens</title>
+    <link rel="stylesheet" href="menu.css">
     <link rel="stylesheet" href="main.css">
+
 </head>
-<body class="light-theme">
-    <h1>Lista de Tarefas</h1>
-    <p id="msg">Tarefas Atuais:</p>
-    <ul>
-        <li class="list">Adicionar estilos visuais</li>
-        <li class="list">Adicionar temas claro e escuro</li>
-        <li>Ativar troca de temas</li>
-    </ul>
-    <div>
-        <button class="btn">Escuro</button>
-    </div>
-    <script src="app.js"></script>
-    <noscript>Voce precisa ativar o JavaScript para vizualizar o site completo</noscript>
+<body>
+    <header>
+        <h1 class="logo">Viagem dos Sonhos ✈</h1>
+        <nav class="nav">
+            <ul class="nav-links">
+                <li><a href="#">Ínicio</a></li>
+                <li><a href="#">Destinos</a></li>
+                <li><a href="#">Promoções</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+            <button id="darkModeToggle" class="dark-btn">🌑</button>
+            <button class="hamburger" id="hamburger">&#9776;</button>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Descubra novos destinos incríveis</h2>
+            <p>Viaje pelo mundo com conforto e economia. Viva experências inesquecíveis!</p>
+            <button class="btn">Explorar agora</button>
+        </section>
+
+        <section class="destinos">
+            <h2>Destinos populares</h2>
+            <div class="cards">
+
+                <div class="card">
+                    <img src="imagens/praia.jpg" alt="Praia">
+                    <h3>Praia dos Sonhos</h3>
+                    <p>Areia branca, mar cristalino e o pôr do sol mais bonito do mundo.</p>
+                </div>
+
+                <div class="card">
+                    <img src="imagens/montanha.jpg" alt="Montanha">
+                    <h3>Montanhas Encantadas</h3>
+                    <p>Um refúgio perfeito para quem ama natureza e aventura.</p>
+                </div>
+
+                <div class="card">
+                    <img src="imagens/cultura.jpg" alt="Cidade">
+                    <h3>Cidade Luz</h3>
+                    <p>Cultura, gastronomia e romance nas ruas mais charmosas do mundo.</p>
+                </div>
+                
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Novembro 2026 Viagem dos Sonhos - Todos os direitos reservados.</p>
+    </footer>
+    
+    <script src="script.js"></script>
+
 </body>
 </html>
