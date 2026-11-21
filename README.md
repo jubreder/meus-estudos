@@ -15,3 +15,4 @@ cada curso possui um arquivo em .md com seu respectivo nome contendo:
 | :--- | :---: | :---: | :---:|
 | Crie um site simples usando HTML, CSS e JavaScript | Fundação Bradesco | 🟢 concluído | [acessar anotações](./crie-um-site-bradesco.md) |
 | AWS Cloud Practitioner Essentials | AWS Skill Builder | 🟡 em andamento | [acessar anotações](./aws-cloud-practitioner.md) |
+| 2 Mini Projetos REAIS em 1 Vídeo | Desvendando o Código | 🟡 em andamento | [acessar anotações](./dois-mini-projetos.md) |
