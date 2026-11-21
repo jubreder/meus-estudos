@@ -20,4 +20,5 @@
 ### 20/11/2026 - mais desenvolvimento front-end
 - iniciei a vídeoaula "Do Front-end ao Back-end: 2 Mini Projetos REAIS em 1 Vídeo (HTML, CSS, JS, Node e MySQL)" do canal "Desvendando o Código" no YouTube.
 - escrevi os códigos index.html e script.js nos 30 primeiros minutos do vídeo.
-- 
+- [link da videoaula](../../blob/cursos/dois-mini-projetos.md)
+- ps: gosto muito de programar e ver algo que eu criei funcionando 😁
