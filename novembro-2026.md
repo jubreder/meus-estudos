@@ -16,3 +16,8 @@
 - aprendi sobre o que é computação em nuvem e informaçoes sobre AWS.
 - terminei o módulo 1 de 13
 - [link do curso](../../blob/cursos/aws-cloud-practitioner.md)
+
+### 20/11/2026 - mais desenvolvimento front-end
+- iniciei a vídeoaula "Do Front-end ao Back-end: 2 Mini Projetos REAIS em 1 Vídeo (HTML, CSS, JS, Node e MySQL)" do canal "Desvendando o Código" no YouTube.
+- escrevi os códigos index.html e script.js nos 30 primeiros minutos do vídeo.
+- 
