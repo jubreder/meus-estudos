@@ -23,4 +23,4 @@
 
 ## projetos e arquivos relacionados
 - arquivo html [index](../../blob/arquivos/index.html)
-- arquivo javascript [index](../../blob/arquivos/script.js)
+- arquivo javascript [script](../../blob/arquivos/script.js)
